@@ -23,10 +23,4 @@ Self-taught software engineer. I build across the stack and go deep when somethi
 
 ---
 
-### Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillEdgington&layout=compact&hide_border=true&hide_title=true)
-
----
-
 📧 [willedge037@gmail.com](mailto:willedge037@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/williamedgington/)
