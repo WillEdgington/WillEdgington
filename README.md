@@ -6,7 +6,7 @@ Self-taught software engineer. I build across the stack and go deep when somethi
 
 - **[`football-kick-tracker`](https://github.com/WillEdgington/football-kick-tracker):** computer vision pipeline to track player kick frequency from video across a training session, built for sports performance analysis. (in progress)
 - **Learning C ([`c-curriculum`](https://github.com/WillEdgington/c-curriculum)):** self-directed C curriculum. building a JSON parser, data structure library, HTTP server, shell, neural network, and interpreter from scratch.
-  - **Completed Projects:** [`cjson`](https://github.com/WillEdgington/cjson)
+  - **Completed Projects:** [`clib`](https://github.com/WillEdgington/clib), [`cjson`](https://github.com/WillEdgington/cjson)
 
 ---
 
